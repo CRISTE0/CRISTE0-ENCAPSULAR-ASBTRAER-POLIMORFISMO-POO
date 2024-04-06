@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Abstraccion\\Punto3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3F1FB7-39D6-47AA-A8AC-55FBF819B9F0}|Punto3.csproj|c:\\users\\asus\\desktop\\abstraccion\\punto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3F1FB7-39D6-47AA-A8AC-55FBF819B9F0}|Punto3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3F1FB7-39D6-47AA-A8AC-55FBF819B9F0}|Punto3.csproj|c:\\users\\asus\\desktop\\abstraccion\\punto3\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3F1FB7-39D6-47AA-A8AC-55FBF819B9F0}|Punto3.csproj|solutionrelative:vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3F1FB7-39D6-47AA-A8AC-55FBF819B9F0}|Punto3.csproj|c:\\users\\asus\\desktop\\abstraccion\\punto3\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3F1FB7-39D6-47AA-A8AC-55FBF819B9F0}|Punto3.csproj|solutionrelative:coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3F1FB7-39D6-47AA-A8AC-55FBF819B9F0}|Punto3.csproj|c:\\users\\asus\\desktop\\abstraccion\\punto3\\remolque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3F1FB7-39D6-47AA-A8AC-55FBF819B9F0}|Punto3.csproj|solutionrelative:remolque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3F1FB7-39D6-47AA-A8AC-55FBF819B9F0}|Punto3.csproj|c:\\users\\asus\\desktop\\abstraccion\\punto3\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3F1FB7-39D6-47AA-A8AC-55FBF819B9F0}|Punto3.csproj|solutionrelative:camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Abstraccion\\Punto3\\Camion.cs",
+              "RelativeDocumentMoniker": "Camion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Abstraccion\\Punto3\\Camion.cs",
+              "RelativeToolTip": "Camion.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:07:18.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Remolque.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Abstraccion\\Punto3\\Remolque.cs",
+              "RelativeDocumentMoniker": "Remolque.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Abstraccion\\Punto3\\Remolque.cs",
+              "RelativeToolTip": "Remolque.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:07:06.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Abstraccion\\Punto3\\Coche.cs",
+              "RelativeDocumentMoniker": "Coche.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Abstraccion\\Punto3\\Coche.cs",
+              "RelativeToolTip": "Coche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:06:49.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Abstraccion\\Punto3\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Vehiculo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Abstraccion\\Punto3\\Vehiculo.cs",
+              "RelativeToolTip": "Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:06:35.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Abstraccion\\Punto3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Abstraccion\\Punto3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:56:42.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
